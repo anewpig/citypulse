@@ -1,0 +1,24 @@
+{
+  "cities": [
+    {
+      "name": "Taipei",
+      "country": "Taiwan",
+      "population": 2493074
+    },
+    {
+      "name": "Taichung",
+      "country": "Taiwan",
+      "population": 2820163
+    },
+    {
+      "name": "Tainan",
+      "country": "Taiwan",
+      "population": 1850000
+    },
+    {
+      "name": "Kaohsiung",
+      "country": "Taiwan",
+      "population": 2730000
+    }
+  ]
+}

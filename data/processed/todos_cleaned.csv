@@ -1,0 +1,21 @@
+﻿todo_id,user_id,title,completed,title_length,completed_text
+1,1,delectus aut autem,False,18,not_done
+2,1,quis ut nam facilis et officia qui,False,34,not_done
+3,1,fugiat veniam minus,False,19,not_done
+4,1,et porro tempora,True,16,done
+5,1,laboriosam mollitia et enim quasi adipisci quia provident illum,False,63,not_done
+6,1,qui ullam ratione quibusdam voluptatem quia omnis,False,49,not_done
+7,1,illo expedita consequatur quia in,False,33,not_done
+8,1,quo adipisci enim quam ut ab,True,28,done
+9,1,molestiae perspiciatis ipsa,False,27,not_done
+10,1,illo est ratione doloremque quia maiores aut,True,44,done
+11,1,vero rerum temporibus dolor,True,27,done
+12,1,ipsa repellendus fugit nisi,True,27,done
+13,1,et doloremque nulla,False,19,not_done
+14,1,repellendus sunt dolores architecto voluptatum,True,46,done
+15,1,ab voluptatum amet voluptas,True,27,done
+16,1,accusamus eos facilis sint et aut voluptatem,True,44,done
+17,1,quo laboriosam deleniti aut qui,True,31,done
+18,1,dolorum est consequatur ea mollitia in culpa,False,44,not_done
+19,1,molestiae ipsa aut voluptatibus pariatur dolor nihil,True,52,done
+20,1,ullam nobis libero sapiente ad optio sint,True,41,done

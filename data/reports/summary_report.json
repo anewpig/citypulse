@@ -1,0 +1,16 @@
+{
+  "total_todos": 20,
+  "total_users": 1,
+  "total_cities": 1,
+  "total_companies": 1,
+  "completed_todos": 11,
+  "overall_completion_rate": 0.55,
+  "top_user_by_todo_count": {
+    "user_name": "Leanne Graham",
+    "todo_count": 20
+  },
+  "top_city_by_todo_count": {
+    "city": "Gwenborough",
+    "todo_count": 20
+  }
+}
